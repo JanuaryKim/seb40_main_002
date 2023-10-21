@@ -8,6 +8,7 @@
 <table>
   <tbody>
     <tr>
+      
       <td align="center"><a href="https://github.com/billy5982"><img src="https://avatars.githubusercontent.com/u/104412610?v=4" width="100px;" alt=""/><br /><sub><b>이명규</b></sub></a>
       <td align="center"><a href="https://github.com/cule97"><img src="https://avatars.githubusercontent.com/u/106367435?v=4" width="100px;" alt=""/><br /><sub><b>이상민</b></sub></a>
       <td align="center"><a href="https://github.com/callmejeje"><img src="https://avatars.githubusercontent.com/u/45119238?v=4" width="100px;" alt=""/><br /><sub><b>최주은</b></sub></a>
